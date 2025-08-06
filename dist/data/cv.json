@@ -1,0 +1,66 @@
+{
+  "PERFIL": {
+    "nombre_completo": "Antonio Martín León Chong",
+    "email": "leonantoniobm@gmail.com",
+    "linkedin": "linkedin.com/in/antonioleon",
+    "ubicacion": "Lima, Perú",
+    "idiomas": "Español (nativo), Inglés (intermedio)",
+    "edad": 39
+  },
+  "MI_SUSHI": [
+    { "nombre": "Logo",  "imagen": "/sushis/foto8.jpg" },
+    { "nombre": "Creacion Propia Makomaki (hecho con mango )", "imagen": "/sushis/foto5.jpg" },
+    { "nombre": "Presentacion de Delivery", "imagen": "/sushis/foto11.jpg" },
+    { "nombre": "Osomaki", "imagen": "/sushis/foto1.jpg" },
+    { "nombre": "sashimi", "imagen": "/sushis/foto2.jpg" },
+    { "nombre": "yakusa maki",  "imagen": "/sushis/foto3.jpg" },
+    { "nombre": "california",  "imagen": "/sushis/foto4.jpg" },
+    { "nombre": "Cryspi",  "imagen": "/sushis/foto7.jpg" },
+    { "nombre": "imagen principal", "imagen": "/sushis/foto9.jpg" },
+    { "nombre": "maki acevichado",  "imagen": "/sushis/foto10.jpg" }
+  ],
+  "EDUCACION": {
+    "institucion": "Cibertec",
+    "carrera": "Computación e Informática",
+    "ciclo": "Segundo ciclo (en curso)",
+    "enfoque": "Desarrollo web, bases de datos y lógica de programación"
+  },
+  "EXPERIENCIA": {
+"experiencia": " +1 año de experiencia práctica desarrollando interfaces web.\nProyectos personales destacados: Tumaki App, Garage 3D, Portfolio IA.\nEnfocado en la creación de soluciones visuales interactivas y funcionales.\nMotivado por la automatización, el diseño y el impacto del software en la vida diaria."
+  },
+  "PROYECTOS_DESTACADOS": [
+    {
+      "nombre": "Tumaki.vercel.app",
+      "descripcion": "tumaki.vercel.app",
+      "funcionalidades": ["Pedidos", "Reservas", "Reportes", "Boletas", "Carrito dinámico"],
+      "demo": "🔗 Demo en Vercel"
+    },
+    {
+      "nombre": "Garage 3D Interactivo",
+      "descripcion": "Experiencia visual de garaje de autos con animaciones e interacción",
+      "funcionalidades": ["Galería animada de autos en 3D", "Menús y modales circulares animados"],
+      "demo": "🔗 Ver proyecto"
+    },
+    {
+      "nombre": "Dashboard con IA",
+      "descripcion": "Portafolio profesional interactivo con IA integrada",
+      "funcionalidades": [
+        "Chatbot personalizado",
+        "Sonido de interfaz",
+        "Sidebar animado",
+        "Enlaces dinámicos",
+        "Secciones cargadas desde JSON y TXT"
+      ],
+      "demo": "🔗 Ver dashboard"
+    }
+  ],
+  "LOGROS_PERSONALES": [
+    "Hackeé mi propia PS3...",
+    "Todo mi conocimiento tech lo obtuve desde cero...",
+    "Diseñé un sistema completo de pedidos..."
+  ],
+  "IMAGENES": { 
+    "nombre": "maki",
+    "imagen": "/sushis/foto.jpg"
+  }
+}
