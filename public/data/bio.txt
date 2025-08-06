@@ -1,13 +1,10 @@
 ### INDICE
-Bienvenido a mi portafolio . Aquí puedes navegar por todas mis secciones disponibles:
+Bienvenido a mi portafolio . Aquí las secciones disponibles:
 
 • PERFIL — Conoceras mi historia personal y profesional.
 
 • EXPERIENCIA  
-- +1 año de experiencia práctica desarrollando interfaces web.
-- Proyectos personales destacados: Tumaki App, Garage 3D, Portfolio IA.
-- Enfocado en la creación de soluciones visuales interactivas y funcionales.
-- Motivado por la automatización, el diseño y el impacto del software en la vida diaria.
+
 
  PROYECTOS DESTACADOS
 - Tumaki App: Pedidos, reservas, carrito dinámico, boletas en tiempo real
@@ -18,23 +15,21 @@ Bienvenido a mi portafolio . Aquí puedes navegar por todas mis secciones dispon
 ### CURRICULUM
            
           Antonio León                
-========================================
 
-========================================
 PERFIL PROFESIONAL
-========================================
+
 Soy Antonio León, ex-chef especializado en cocina japonesa y actual desarrollador de software en formación constante. Mi transición al mundo tech nace de una pasión profunda por la lógica, la creatividad y la automatización. En poco más de un año he diseñado e implementado proyectos reales usando tecnologías modernas como React, Node.js y SQL Server, demostrando mi capacidad de adaptación, aprendizaje autónomo y enfoque modular.
 
 
 
-========================================
+
 OBJETIVO PROFESIONAL
-========================================
+
 Aplicar mis conocimientos en desarrollo web y automatización con IA en un entorno profesional donde pueda seguir creciendo, aportar soluciones innovadoras y conectar mi background humano con el mundo de la tecnología.
 
-========================================
+
 EDUCACIÓN
-========================================
+
 📚 CIBERTEC – Carrera de Computación e Informática  
 📅 Segundo ciclo – 2025 (En curso)  
 
@@ -42,9 +37,9 @@ EDUCACIÓN
 - Documentación oficial, proyectos personales, videos educativos  
 - Experiencia práctica con sistemas modulares y APIs REST  
 
-========================================
+
 HABILIDADES TÉCNICAS
-========================================
+
 💻 Lenguajes: JavaScript, Java, SQL, HTML5, CSS3  
 ⚙️ Frameworks: React, Vite, Tailwind CSS  
 🗃️ Base de datos: SQL Server  
@@ -54,23 +49,23 @@ HABILIDADES TÉCNICAS
 🔍 Debugging: Manejo de herramientas de depuración en VSCode  
 🧩 Otras: manejo de localStorage, consumo de JSON externo, modularización de componentes  
 
-========================================
+
 EXPERIENCIA EN PROYECTOS
-========================================
+
 📌 Tumaki App  
 Plataforma web para restaurante ficticio con pedidos dinámicos, reservas, carrito funcional y generación de boletas. Integración con localStorage y diseño responsivo.
 
-📌 Garage 3D  
+📌 tienda 3D  
 Aplicación con interfaz React y elementos visuales animados en 3D. Integración de audio, botones animados, modales circulares flotantes y control contextual.
 
-📌 Portfolio Dashboard con IA  
-Sistema de navegación inteligente con carga dinámica de contenido desde archivos `.txt` y `.json`. Secciones enlazadas con `Sidebar` y `Navbar`, asistente virtual y enfoque educativo.
+📌 Tumaki webSite
+ Sitio web basado en la primera aplicacion que realice como continuidad de la marca que solia utilizar.
 
-📌 Pasarela de Moda Digital  
-Concepto visual con imágenes flotantes y efectos visuales tipo vitrina. Interacción con scroll y despliegue visual en centro de pantalla.
-========================================
+📌 MultiAppSystem
+Aplicacion multiplataforma que muestra un entorno libre de renders y con vision a una estrctura modular mas a la vanguardia en el mundo de los sistemas.
+
 REFERENCIAS
-========================================
+
 Disponibles bajo solicitud.
 
 
@@ -84,9 +79,6 @@ Empecé como cocinero, pero la lógica y creatividad de la programación captura
 ✅ Comprometido con mejorar continuamente 
 
 ### DATOS PERSONALES
-========================================
-
-========================================
 📍 Direccion: Pasaje Durand Bernales 146 Dpto. 207 , Barrio Medico , Surquillo, Lima, Perú  
 📧 Email: leonantoniobm@gmail.com  
 🌐 Web personal: https://tumaki-web.vercel.app  

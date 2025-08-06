@@ -8,9 +8,8 @@ export default function Navbar({ onSelect }) {
     "PERFIL",
     "EDUCACION",
     "EXPERIENCIA",
-    "PROYECTOS_DESTACADOS",
-    "LOGROS_PERSONALES",
-    "MI_SUSHI"
+    "PROYECTOS",
+    "EXPERIENCIA_PERSONAL"
   ];
 
   return (
