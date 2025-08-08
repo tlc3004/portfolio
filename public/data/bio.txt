@@ -6,11 +6,8 @@ Bienvenido a mi portafolio . Aquí las secciones disponibles:
 • EXPERIENCIA  
 
 
- PROYECTOS DESTACADOS
-- Tumaki App: Pedidos, reservas, carrito dinámico, boletas en tiempo real
-- Garage 3D: Control de objetos, modales circulares, sonido y animaciones
-- Portfolio Dashboard: Navegación con `Sidebar` y `Navbar`, modular, responsivo
-- Pasarela de Moda Digital: Efectos visuales con imágenes flotantes y animadas
+ PROYECTOS 
+
 
 ### CURRICULUM
            
@@ -50,7 +47,7 @@ HABILIDADES TÉCNICAS
 🧩 Otras: manejo de localStorage, consumo de JSON externo, modularización de componentes  
 
 
-EXPERIENCIA EN PROYECTOS
+EXPERIENCIA 
 
 📌 Tumaki App  
 Plataforma web para restaurante ficticio con pedidos dinámicos, reservas, carrito funcional y generación de boletas. Integración con localStorage y diseño responsivo.

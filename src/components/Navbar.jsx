@@ -6,10 +6,10 @@ export default function Navbar({ onSelect }) {
 
   const links = [
     "PERFIL",
-    "EDUCACION",
+    "MI SUSHI",
     "EXPERIENCIA",
     "PROYECTOS",
-    "EXPERIENCIA_PERSONAL"
+    "IMAGENES"
   ];
 
   return (
